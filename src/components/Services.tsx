@@ -23,37 +23,37 @@ export const Services: React.FC = () => {
     {
       id: 'plumber',
       title: 'PLUMBER',
-      description: 'We provide certified master plumbing services, rapid leak fixing, bathroom fittings, and 24/7 emergency water network repair.',
+      description: 'Whether its fixing a leak quickly or installing bathroom fittings or custom plumbing, our master plumbers are certified. We provide 24-hour-a-day, 7-day-a-week emergency water network repair solutions so that a burst pipe or unexpected leak never has to wait until morning.',
       icon: Wrench,
     },
     {
       id: 'painting',
       title: 'PAINTING',
-      description: 'Professional interior and exterior painting services with precision edging, high-grade wall textures, and weatherproof finishes.',
+      description: 'Interior and exterior work is done with precision edging and clean finishes by our professionals. We provide high quality wall textures and weatherproof finishes so your home looks neat and protected throughout the year.',
       icon: Paintbrush,
     },
     {
       id: 'handyman',
       title: 'HANDYMAN',
-      description: 'Expert residential repairs, electrical fixture updates, drilling, mountings, and versatile household restoration.',
+      description: 'Our professional handymen handle regular residential repairs, electric fixture replacement, drilling and wall mountings. They also do a variety of home restoration jobs, meaning that little tasks can be done well without bothering to find a man who can be trusted for small jobs.',
       icon: Hammer,
     },
     {
       id: 'cleaning',
       title: 'CLEANING',
-      description: 'Deep residential cleaning, steam sanitized floors, spot removal, and move-in ready sanitization packages.',
+      description: 'Deep residential cleaning, steam-sanitized floors, and thorough spot removal. Our move-in ready sanitization packages are perfect for new homeowners and tenants who wish to move in to a bright and clean home.',
       icon: Sparkles,
     },
     {
       id: 'furniture',
       title: 'FURNITURE',
-      description: 'Custom carpentry, ergonomic furniture assembly, luxury woodwork maintenance, and interior styling support.',
+      description: 'This furniture service includes custom furniture carpentry, ergonomic furniture assembly, and luxury woodwork maintenance. Interior support provides assistance to make a new property feel like your own.',
       icon: Armchair,
     },
     {
       id: 'more',
       title: 'MORE ITEM',
-      description: 'Explore full catalog of residential management, pest control, solar maintenance, and custom landscaping solutions.',
+      description: 'Browse our extensive range of services from residential management to pest control, solar upkeep etc., and even custom landscaping. Our network of trusted partners can take care of any property requirement.',
       icon: LayoutGrid,
     },
   ];
@@ -65,10 +65,10 @@ export const Services: React.FC = () => {
         {/* Section Header */}
         <div className="text-center max-w-2xl mx-auto mb-16">
           <h2 className="font-heading text-4xl sm:text-5xl font-black text-black tracking-tight uppercase mb-4">
-            SERVICES
+            OUR SERVICES
           </h2>
           <p className="text-sm sm:text-base text-gray-500 leading-relaxed">
-            We provide a wide range of verified home maintenance and master trade services to keep your residence in pristine condition.
+            Home Maintenance & Master Trade Services are available to help keep your home in prime condition. Our certified team is here 24/7 and available from your first day in the home.
           </p>
         </div>
 

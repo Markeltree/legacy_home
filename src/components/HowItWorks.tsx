@@ -15,33 +15,33 @@ interface StepItem {
 export const HowItWorks: React.FC = () => {
   const steps: StepItem[] = [
     {
-      title: 'LOOKING FOR TENANT',
-      description: 'Find verified residents and discover curated luxury properties tailored to your exact architectural and lifestyle needs.',
+      title: 'Find the Tenant on the map',
+      description: 'We match confirmed tenants to selected luxury apartments in line with design preference and lifestyle requirements. Owners receive qualified interest and tenants/buyers only see pre-qualified homes.',
       image: lookingForTenantImg,
     },
     {
-      title: 'DEDICATED MANAGER',
-      description: 'A licensed personal property advisor oversees on-site VIP tours, contract negotiations, and concierge onboarding.',
+      title: 'Marketing & Promotion',
+      description: 'All listings are exposed all throughout the world, but across multiple channels. Multiple high-resolution photographs of each property showcase their best image, while 3D virtual tours allow you to view every room from before you travel to see them.',
       image: dedicatedImg,
     },
     {
-      title: 'MARKETING & PROMOTION',
-      description: 'Global multi-channel exposure for luxury listings, high-resolution photography, and 3D virtual walkthroughs.',
+      title: 'Freedom & Legal Clearance',
+      description: 'We finish a title deed audit of zero encumbrances and make clear tax documents before any person signs. Escrow is safeguarded by Secure Escrow to ensure that money is not released until everything has been fulfilled.',
       image: marketingPromotionImg,
     },
     {
-      title: 'TENANT SELECT',
-      description: 'Comprehensive background checks, credit approvals, and verified rental applications processed seamlessly.',
+      title: 'Dedicated Manager',
+      description: 'A personal property advisor with a license is assigned to you. They offer on-site VIP tours, manage your contract negotiations and concierge onboarding – you always have one point of contact.',
       image: tenantSelectImg,
     },
     {
-      title: 'FREEDOM & LEGAL CLEARANCE',
-      description: 'Zero encumbrance title deed audits, transparent tax documentation, and secure escrow guarantees.',
+      title: 'Tenant Selection',
+      description: 'Rental applications are thoroughly reviewed, credit checked, and applicants are thoroughly vetted. Owners can be confident in who they are allowing to move in.',
       image: freedomImg,
     },
     {
-      title: 'DEAL CLOSURE',
-      description: 'Official deed package handover, smart key activation, and seamless integration into our on-demand care network.',
+      title: 'Deal Closure',
+      description: 'You will receive the official deed package, your smart key will be activated and you will be greeted as a part of our on-demand care network. All the plumbing, painting, cleaning, and other services are available immediately.',
       image: dealClosureImg,
     },
   ];
@@ -53,10 +53,10 @@ export const HowItWorks: React.FC = () => {
         {/* Section Header */}
         <div className="text-center max-w-2xl mx-auto mb-16">
           <h2 className="font-heading text-4xl sm:text-5xl font-black text-black tracking-tight uppercase mb-4">
-            HOW IT WORKS?
+            Your Path to Your Dream Home
           </h2>
           <p className="text-sm sm:text-base text-gray-500 leading-relaxed">
-            Follow our proven six-step framework for seamless property discovery, acquisition, and lifelong home maintenance.
+            We've developed a highly effective six-step process that helps you discover a home and then has it cared for well past the closing date.
           </p>
         </div>
 

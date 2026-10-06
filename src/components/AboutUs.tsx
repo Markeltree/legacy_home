@@ -13,15 +13,16 @@ export const AboutUs: React.FC = () => {
             </h2>
 
             <p className="text-sm sm:text-base text-gray-600 leading-relaxed mb-5">
-              Legacy Homes is a premier real estate and property lifestyle advisory founded on the ideals of architectural distinction, legal transparency, and comprehensive lifetime residency support.
+              When it comes to housing, you should feel excited about purchasing or renting a home, not stressed out. Legacy Homes is a top-tier real estate and property lifestyle advisory company that is driven by 3 core values: architectural identity, transparency in legal matters, and extensive lifelong residence assistance.
             </p>
 
             <p className="text-sm sm:text-base text-gray-500 leading-relaxed mb-5">
-              We eliminate the traditional friction of property transactions by pairing discerning buyers and tenants with vetted properties while providing our certified master service network for turnkey renovations and maintenance.
-            </p>
+              We take the friction out of property transactions. We match discerning buyers and tenants with carefully vetted properties, and every home in our portfolio goes through strict title authentication and structural inspection before it is listed. From the first viewing to the final signature, a licensed personal advisor guides you through tours, negotiations, and paperwork, so you always know where you stand and what comes next.
 
-            <p className="text-sm sm:text-base text-gray-500 leading-relaxed mb-8">
-              Every home in our portfolio undergo strict title authentication and structural inspection, ensuring your investment is backed by certified legal peace of mind.
+            </p>
+            <p className="text-sm sm:text-base text-gray-500 leading-relaxed mb-5">
+Our support doesn't end when the deal closes. Once you move in, our certified master service network is ready to help with plumbing, painting, cleaning, handyman work, furniture, and more, so your residence stays in pristine condition for years to come. With Legacy Homes, finding your dream property and caring for it are part of one seamless experience.
+
             </p>
 
             <button
